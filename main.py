@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 BCB Currency Monitor - Find the minimum USD to BRL exchange rate in a month
 Uses the official Brazilian Central Bank (BCB) PTAX API
